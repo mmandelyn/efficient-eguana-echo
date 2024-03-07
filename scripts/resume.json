@@ -1,0 +1,19 @@
+{
+    "name": "Mandy McGinnis",
+
+    "education": [
+      {
+        "degree": "BBA in CIS and Accounting",
+        "university": "University of North Alabama",
+        "year": "May 2025"
+      }
+    ],
+    
+    "skills": [
+      "Web Development",
+      "Python",
+      "Java",
+      "System Analysis and Design",
+      "Network Infrastructure"
+    ]
+  }
